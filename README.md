@@ -24,7 +24,7 @@ http://ericngo.me/
 
 ## Reflection
 
-Super happy to publish the first iteration of my personal site! I used basic React components to style my site, along with various external libraries such as hover.css, termynal.js, and react-scroll (to name a few). The website was designed in Adobe XD and since this is only my first jab at a personal site, I'm looking forward to learning more about front-end design and becoming adept with the different design software to create more intuitive, responsive, and fast websites in the future. While I enjoyed doing a minimal static sight with not too many animations, I'm excited to work on future iterations of my site with newer technology and styles.
+Super happy to publish the first iteration of my personal site! I used basic React components to style my site, along with various external libraries such as hover.css, termynal.js, and react-scroll (to name a few). The website was designed in Adobe XD and since this is only my first jab at a personal site, I'm looking forward to learning more about front-end design and becoming adept with different design software to create more intuitive, responsive, and fast websites in the future. While I enjoyed doing a minimal static sight with not too many animations, I'm excited to work on future iterations of my site with newer technology and styles.
 
 Feel free to contact me for any questions or just to chat :)
 
