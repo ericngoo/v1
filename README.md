@@ -1,8 +1,8 @@
-## ericngo.me
+## [ericngo.me](http://ericngo.me)
 
 First iteration of my personal website built in React and hosted with Github Pages!
 
-![Image of Profile Page](https://github.com/ericngoo/Retro-Hub/blob/master/github_assets/profile_screen.jpg)
+![Image of Personal Site](https://github.com/ericngoo/v1/blob/master/personal_site.jpg)
 
 ## Installation and Setup Instructions
 
