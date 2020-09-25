@@ -1,6 +1,6 @@
-## [ericngo.me](http://ericngo.me)
+## ericngo.me
 
-First iteration of my personal website built in React and hosted with Github Pages!
+First iteration of my personal [site](http://ericngo.me) built in React and hosted with Github Pages!
 
 ![Image of Personal Site](https://github.com/ericngoo/v1/blob/master/personal_site.jpg)
 
