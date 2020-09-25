@@ -12,11 +12,15 @@ Installation:
 
 Navigate to the root of the project and run the following commands: 
 
-`npm install`
+ ```sh
+   npm install 
+   ```
 
 To Start Server:
 
-`npm start`  
+ ```sh
+   npm start
+   ```
 
 To visit deployed App:
 
