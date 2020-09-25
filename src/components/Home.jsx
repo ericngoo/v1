@@ -34,7 +34,7 @@ function Home(props) {
                 <span data-ty className="tab">["Software Developer", "Student", "Researcher"]</span>
 
                 <span data-ty="input" data-ty-prompt=">">en.resume</span>
-                <span data-ty><a className="hvr-forward tab" href="https://pbs.twimg.com/media/Ebti-8iWkAEu_dP.jpg" target="blank">resume.pdf</a></span>
+                <span data-ty><a className="hvr-forward tab" href={process.env.PUBLIC_URL+"/assets/eric_ngo_resume.pdf"} target="blank">resume.pdf</a></span>
             
             </div>
         </div>
