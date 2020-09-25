@@ -1,0 +1,36 @@
+.work-item-container {
+    display: flex;
+    flex-direction: column;
+    margin: 2em 0;
+
+    h1 {
+        color: $primary-red;
+        font-weight: 400;
+        
+        a {
+            text-decoration: none;
+            color: $primary-red;
+        }
+    }
+
+    p {
+        margin-left: 3em;
+    }
+
+    .work-info {
+        line-height: 1.6;
+    }
+}
+
+@media only screen and (max-width: 1250px) {
+    .work-item-container {
+        h1 {
+            color: $primary-red;
+            font-weight: 400;
+        }
+    
+        p {
+            margin-left: 1em;
+        }
+    }
+ }

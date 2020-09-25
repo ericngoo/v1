@@ -1,0 +1,22 @@
+.social-flex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.social-handle {
+    height: 50px;
+    width: 50px;
+    fill: $primary-gray;
+    margin: 0 20px;
+}
+
+.social-handle:hover {
+    fill: $primary-red;
+}
+
+.social-container {
+    margin: auto auto;
+    box-sizing: border-box;
+    height: 20vh;
+}

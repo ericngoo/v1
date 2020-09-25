@@ -1,0 +1,29 @@
+.flex-about-img {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.flex-about-content {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.portfolio-img {
+    width:100%;
+    
+}
+
+.about-container {
+    display: flex;
+    justify-content: center;
+}
+
+@media only screen and (max-width: 1200px) {
+   .about-container {
+       flex-direction: column;
+   }
+}
