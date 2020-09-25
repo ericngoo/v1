@@ -1,68 +1,32 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## ericngo.me
 
-## Available Scripts
+First iteration of my personal website built in React and hosted with Github Pages!
 
-In the project directory, you can run:
+![Image of Profile Page](https://github.com/ericngoo/Retro-Hub/blob/master/github_assets/profile_screen.jpg)
 
-### `npm start`
+## Installation and Setup Instructions
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Clone the repository. (You will need `node` and `npm` installed globally on your machine.)  
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+Installation:
 
-### `npm test`
+Navigate to the root of the project and run the following commands: 
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+`npm install`
 
-### `npm run build`
+To Start Server:
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+`npm start`  
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+To visit deployed App:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+http://ericngo.me/
 
-### `npm run eject`
+## Reflection
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+Super happy to publish the first iteration of my personal site! I used basic React components to style my site, along with various external libraries such as hover.css, termynal.js, and react-scroll (to name a few). The website was designed in Adobe XD and since this is only my first jab at a personal site, I'm looking forward to learning more about front-end design and becoming adept with the different design software to create more intuitive, responsive, and fast websites in the future. While I enjoyed doing a minimal static sight with not too many animations, I'm excited to work on future iterations of my site with newer technology and styles.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Feel free to contact me for any questions or just to chat :)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+This application was bootstrapped with the `create-react-app` boilerplate to handle the initial setup for me. But the final list of technologies used in my project are: 
+React, Hover.css, Node-Sass, and termynal.js. (Hosted on Github Pages 😎)
